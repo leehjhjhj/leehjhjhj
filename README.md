@@ -5,4 +5,4 @@
 - It seeks sustainable development, not a one-off project.
 - I think developers are not just code makers as they are given, but they are '**value creators**' who actively create things that can help people.
 ### Certificate
-<a href="https://www.credly.com/earner/earned/badge/923bb51c-b30d-42be-84b5-74cf385f92a1"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100">
+<a href="https://www.credly.com/badges/923bb51c-b30d-42be-84b5-74cf385f92a1"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100">
