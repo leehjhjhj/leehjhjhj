@@ -13,3 +13,7 @@
   
 ## Certificate 😁
 <a href="https://www.credly.com/badges/923bb51c-b30d-42be-84b5-74cf385f92a1"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100">
+
+## Presentation 🎤
+[2024]
+- ACC SCD(AWSCloudClubStudent Community Day) [Lambda와 EventBridge는 여러분에게 날개를 달아줘요](https://www.youtube.com/watch?v=7V1FPG36XRo&t=743s)
