@@ -16,4 +16,4 @@
 
 ## Presentation 🎤
 [2024]
-- ACC SCD(AWSCloudClubStudent Community Day) [Lambda와 EventBridge는 여러분에게 날개를 달아줘요](https://www.youtube.com/watch?v=7V1FPG36XRo&t=743s)
+- ACC SCD(AWSCloudClub StudentCommunityDay) [Lambda와 EventBridge는 여러분에게 날개를 달아줘요](https://www.youtube.com/watch?v=7V1FPG36XRo&t=743s)
